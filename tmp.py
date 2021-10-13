@@ -2,6 +2,7 @@
 ##### Also you must change the directory. This is only for .TMP files.
 ##### You must use monthly abs change for MAX and MIN tmp.
 ##### Developed by MR.Eini mohammad_eini@sggw.edu.pl
+##### https://www.researchgate.net/profile/Mohammad-Reza-Eini
 
 
 
