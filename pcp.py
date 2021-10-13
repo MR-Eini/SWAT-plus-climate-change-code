@@ -2,6 +2,7 @@
 ##### Also you must change the directory. Also, be careful about extension (PCP, SLR, HMD, WND)
 ##### You must use percentage change not abs change 
 ##### Developed by MR.Eini:  mohammad_eini@sggw.edu.pl
+##### https://www.researchgate.net/profile/Mohammad-Reza-Eini
 
 import numpy as np
 from calendar import monthrange
